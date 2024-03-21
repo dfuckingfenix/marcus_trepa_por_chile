@@ -23,3 +23,16 @@ body{
 .card-img-top{
     height: 14rem;
 }
+.card{
+    background-color: transparent !important;
+    color: white !important;
+}
+
+h2{
+    color: white !important;
+    font-size: 50px !important;
+}
+
+.bg-color{
+    background-color: rgb(96, 96, 240) !important;
+}
