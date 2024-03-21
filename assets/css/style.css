@@ -8,5 +8,18 @@
 }
 
 body{
-    background-color: black;
+    background-color: black !important;
+}
+.navbar{
+    background-color: transparent !important;
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.nav-link{
+    color: white !important;
+}
+.card-img-top{
+    height: 14rem;
 }
